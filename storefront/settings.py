@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-+l6wjx9^h9b@mk#2v%iz)n5u+pq@!c0vh5_8r034p*=(ns^!2b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'whatshop.az' , '63.177.52.127'
+]
 
 
 # Application definition
